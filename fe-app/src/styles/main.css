@@ -1,0 +1,6 @@
+@import "./clock";
+@import "./red-ball";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

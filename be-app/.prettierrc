@@ -1,0 +1,13 @@
+{
+  "singleQuote": true,
+  "overrides": [
+    {
+      "files": ["**/*.ts"],
+      "options": {
+        "singleQuote": true
+      }
+    }
+  ],
+  "trailingComma": "none",
+  "printWidth": 120
+}
